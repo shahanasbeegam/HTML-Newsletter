@@ -90,7 +90,7 @@
         <!-- Header Section -->
         <div class="header">
             <img src="https://launchpadkerala.org/assets/img/Logo.webp" alt="IEEE Logo">
-            <h1>IEEE Launch Pad Kerala Newsletter 🚀</h1>
+            <h1>IEEE Launch Pad Kerala Newsletter </h1>
         </div>
 
         <!-- Content Section -->
