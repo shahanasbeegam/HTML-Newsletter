@@ -165,45 +165,7 @@
                 </ul>
             </div>
 
-            <!-- Recruiters for This Year -->
-            <div class="section">
-                <h2>This Year's Recruiters</h2>
-                <ul class="recruiters">
-                    <li>Abilytics</li>
-                    <li>TATA Elxsi</li>
-                    <li>Benlycos</li>
-                    <li>Bluecast</li>
-                    <li>CareStack</li>
-                    <li>Cubet</li>
-                    <li>Faith Infotech Academy</li>
-                    <li>Kott Software</li>
-                    <li>PumexInfotech</li>
-                    <li>STPL</li>
-                    <li>Terveys</li>
-                    <li>amdrodo</li>
-                    <li>Codelinks</li>
-                    <li>Expertzlab</li>
-                    <li>Faya</li>
-                    <li>Normality</li>
-                    <li>Pearlsoft</li>
-                    <li>Plusit</li>
-                    <li>toobler</li>
-                    <li>Innone
-
-ur</li>
-                    <li>open</li>
-                    <li>software_incubator</li>
-                    <li>cabot</li>
-                    <li>curate</li>
-                    <li>equip</li>
-                    <li>Fostering</li>
-                    <li>Ibil</li>
-                    <li>Kennedys</li>
-                    <li>QWY Soft</li>
-                </ul>
-            </div>
-        </div>
-
+          
         <!-- Footer Section -->
         <div class="footer">
            
