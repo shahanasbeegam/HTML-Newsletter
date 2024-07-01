@@ -1,6 +1,6 @@
 
-<!DOCTYPE html>
-<html lang="en">
+
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -213,13 +213,4 @@ ur</li>
     </div>
 </body>
 </html>
-```
 
-### Instructions for Usage:
-
-1. **Save and Open in Browser**: Save the above code into a `.html` file and open it in any web browser to see the newsletter layout.
-2. **Edit Content**: Customize the content, images, and links as per your requirements.
-3. **Email Service Compatibility**: Ensure to test the HTML on various email clients to check compatibility and responsiveness. Tools like Litmus or Email on Acid can be helpful.
-4. **Embedding in Email Campaign**: Use the HTML content in your preferred email marketing service like Mailchimp, Constant Contact, or any other platform that supports custom HTML newsletters.
-
-If you have any specific requests or need further customization, feel free to ask!
